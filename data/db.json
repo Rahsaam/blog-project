@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores distinctio, doloribus repellat eligendi ex neque quis quasi, voluptatibus architecto saepe sunt. Consequuntur officiis porro soluta illo repudiandae id accusantium laboriosam!",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 css tips",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores distinctio, doloribus repellat eligendi ex neque quis quasi, voluptatibus architecto saepe sunt. Consequuntur officiis porro soluta illo repudiandae id accusantium laboriosam!",
+      "tags": [
+        "webdev",
+        "coding",
+        "css"
+      ]
+    },
+    {
+      "title": "html tips",
+      "body": "more info in website",
+      "tags": [
+        "html",
+        "css",
+        "news"
+      ],
+      "id": 3
+    },
+    {
+      "title": "hesam",
+      "body": "asdasdasd",
+      "tags": [
+        "html"
+      ],
+      "id": 4
+    }
+  ]
+}
